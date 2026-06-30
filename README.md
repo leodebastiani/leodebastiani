@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="night.gif" width="100%" alt="banner"/>
+  <img src="banner.gif" width="100%" alt="banner"/>
 </div>
 
 <br/>
@@ -77,6 +77,12 @@ When I'm not staring at query execution plans, I'm probably debugging something 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leodebastiani&show_icons=true&theme=dark&bg_color=0a0a0f&border_color=1c1c28&title_color=e8e8f0&icon_color=4fc3f7&text_color=8888a8" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=leodebastiani&theme=dark&background=0a0a0f&border=1c1c28&stroke=1c1c28&ring=4fc3f7&fire=4fc3f7&currStreakNum=e8e8f0&sideNums=e8e8f0&currStreakLabel=8888a8&sideLabels=8888a8&dates=52526e" height="160"/>
+</div>
+
+## 📅 Commit Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leodebastiani&bg_color=0a0a0f&color=4fc3f7&line=4fc3f7&point=e8e8f0&area=true&area_color=4fc3f7&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
 </div>
 
 <br/>
