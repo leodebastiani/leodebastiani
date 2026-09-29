@@ -14,13 +14,24 @@
 
 <img align="right" src="giphy.gif" width="150" alt="pixel art"/>
 
-Hey, I'm **Leo** — data analyst who accidentally became a full-stack developer.
+# Hi, I'm Leonardo 👋
 
-By day I write SQL queries complex enough to make PostgreSQL sweat.  
-By night I build internal systems that automate the parts of my job I least enjoy doing manually.
+**Systems Analyst | IAM | Process Automation | AI**
 
-Currently at **KTO Brasil**: data analysis, platform governance and security audits.  
-When I'm not staring at query execution plans, I'm probably debugging something I shipped at 2am.
+I work with Identity and Access Management, systems administration, and process automation. My focus is building reliable, standardized workflows and keeping access under control, from provisioning to offboarding.
+
+### 🔧 What I work with
+- **IAM & SSO:** JumpCloud, SAML, access lifecycle management
+- **Automation:** n8n, PowerShell, AI-driven workflows
+- **Systems:** Windows, macOS, Linux, Google Workspace
+- **Tools:** PostgreSQL, Grafana, Jira
+
+### 🌱 Currently
+- Preparing for the **AWS Certified Cloud Practitioner** certification
+- Exploring AI applied to process automation
+
+### 📫 Contact
+leoganon54@gmail.com
 
 <br clear="right"/>
 
