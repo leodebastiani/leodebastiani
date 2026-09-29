@@ -10,11 +10,8 @@
 
 ---
 
-## 🧠 About Me
 
 <img align="right" src="giphy.gif" width="150" alt="pixel art"/>
-
-# Hi, I'm Leonardo 👋
 
 **Systems Analyst | IAM | Process Automation | AI**
 
